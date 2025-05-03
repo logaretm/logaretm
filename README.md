@@ -14,8 +14,8 @@ building high-quality products, enhancing DX, and guiding teams toward technical
 
 ## Socials:
 
-- 🐤 [@logaretm](https://twitter.com/logaretm).
-- 🦋 [@awad.dev](https://bsky.app/profile/awad.dev).
-- 👔 [LinkedIn](https://www.linkedin.com/in/aaawad/).
-- 🎥 [YouTube](https://www.youtube.com/@logaretm).
-- 📩 [Email](mailto:me@awad.dev).
+- 🐤 [@logaretm](https://twitter.com/logaretm)
+- 🦋 [@awad.dev](https://bsky.app/profile/awad.dev)
+- 👔 [LinkedIn](https://www.linkedin.com/in/aaawad/)
+- 🎥 [YouTube](https://www.youtube.com/@logaretm)
+- 📩 [Email](mailto:me@awad.dev)
