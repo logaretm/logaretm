@@ -7,15 +7,15 @@ building high-quality products, enhancing DX, and guiding teams toward technical
 ## Stuff that I do:
 
 - 🤓 [GDE in Web Technologies](https://developers.google.com/profile/u/logaretm).
-- 🗣️ I [speak at international conferences and events](https://awad.dev/talks/).
+- 🗣️ [I speak](https://awad.dev/talks/) at international conferences and events.
 - ✍️ I blog about Vue.js, GraphQL and Frontend topics at [awad.dev](https://awad.dev/).
 - 🎙️ I host [Untyped](https://untyped.fm) and [A Point of Vue](https://www.youtube.com/@povue/) podcast in Arabic.
 - 🗓️ Organizer at [EgyptJS Meetup](https://www.meetup.com/egyptjs/).
 
 ## Socials:
 
-- 🐤 [@logaretm](https://twitter.com/logaretm)
-- 🦋 [@awad.dev](https://bsky.app/profile/awad.dev)
-- 👔 [LinkedIn](https://www.linkedin.com/in/aaawad/)
-- 🎥 [YouTube](https://www.youtube.com/@logaretm)
-- 📩 [Email](mailto:me@awad.dev)
+- **🐤 Twitter:** [@logaretm](https://twitter.com/logaretm)
+- **🦋 BlueSky:** [@awad.dev](https://bsky.app/profile/awad.dev)
+- **👔 LinkedIn:** [aaawad](https://www.linkedin.com/in/aaawad/)
+- **🎥 YouTube:** [@logaretm](https://www.youtube.com/@logaretm)
+- **📩 Email:** [me@awad.dev](mailto:me@awad.dev)
