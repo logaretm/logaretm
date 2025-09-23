@@ -1,7 +1,6 @@
 # Hi 👋
 
-Senior Software Engineer [@Rasayel](https://github.com/rasayel). with 8+ years of experience building high-performance web applications and
-real-time solutions and collaborating global teams. Expert in JavaScript, TypeScript, Vue.js, and GraphQL. Passionate about
+Senior Software Engineer with 8+ years of experience building high-performance web applications. Expert in JavaScript, TypeScript, Vue.js, and GraphQL. Passionate about
 building high-quality products, enhancing DX, and guiding teams toward technical excellence.
 
 ## Stuff that I do:
